@@ -9,7 +9,7 @@ This repository is the companion resource hub for our survey **“A Survey on Ef
 
 > 📄 **Paper:** [A_Survey_on_Efficient_Protein_Language_Models.pdf](./A_Survey_on_Efficient_Protein_Language_Models.pdf) &nbsp;·&nbsp; **OpenReview:** https://openreview.net/forum?id=PTReuOwsXz
 
-## Authors
+## People
 
 **Shouren Wang**<sup>1</sup> · **Debargha Ganguly**<sup>1</sup> · **Vinooth Rao Kulkarni**<sup>1</sup> · **Wang Yang**<sup>1</sup> · **Zhuoran Qiao**<sup>2</sup> · **Daniel Blankenberg**<sup>3</sup> · **Vipin Chaudhary**<sup>1</sup> · **Xiaotian Han**<sup>1</sup>
 
