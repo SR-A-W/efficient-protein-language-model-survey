@@ -9,6 +9,14 @@ This repository is the companion resource hub for our survey **“A Survey on Ef
 
 > 📄 **Paper:** [A_Survey_on_Efficient_Protein_Language_Models.pdf](./A_Survey_on_Efficient_Protein_Language_Models.pdf) &nbsp;·&nbsp; **OpenReview:** https://openreview.net/forum?id=PTReuOwsXz
 
+## Authors
+
+**Shouren Wang**<sup>1</sup> · **Debargha Ganguly**<sup>1</sup> · **Vinooth Rao Kulkarni**<sup>1</sup> · **Wang Yang**<sup>1</sup> · **Zhuoran Qiao**<sup>2</sup> · **Daniel Blankenberg**<sup>3</sup> · **Vipin Chaudhary**<sup>1</sup> · **Xiaotian Han**<sup>1</sup>
+
+<sup>1</sup> Case Western Reserve University &nbsp;·&nbsp; <sup>2</sup> Chai Discovery &nbsp;·&nbsp; <sup>3</sup> Cleveland Clinic
+
+📧 Contact &amp; repository maintainer: **Shouren Wang** ([sxw992@case.edu](mailto:sxw992@case.edu))
+
 <p align="center">
   <img src="./figures/pLMs_history_tree.png" alt="Evolution history of Protein Language Models (2019–2025)" width="85%">
   <br>
