@@ -86,9 +86,11 @@ Key works reviewed in the survey, grouped by efficiency dimension. See [`papers.
 
 ## Releases
 
-| Version | Date | Venue | File |
-|---------|------|-------|------|
-| v1 | 2026-06 | TMLR | [`survey-releases/v1_TMLR_202606.pdf`](./survey-releases/v1_TMLR_202606.pdf) |
+| Version | Date | Form | Link / File |
+|---------|------|------|-------------|
+| v0 | 2025-12 | Preprints.org (official publication) | [preprints.org/manuscript/202512.2131](https://www.preprints.org/manuscript/202512.2131) |
+| v0 | 2025-12 | Plain TMLR typesetting | [`v0_TMLR_typeset.pdf`](./survey-releases/v0_TMLR_typeset.pdf) |
+| v1 | 2026-06 | TMLR (camera-ready) | [`v1_TMLR_202606.pdf`](./survey-releases/v1_TMLR_202606.pdf) |
 
 Future revisions and extended versions will be added to [`survey-releases/`](./survey-releases).
 
