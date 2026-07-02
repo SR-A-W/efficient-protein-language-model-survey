@@ -13,25 +13,29 @@ This repository is the companion resource hub for our survey **“A Survey on Ef
 
 ### Authors
 
+Authors of the survey (TMLR version).
+
 **Shouren Wang**<sup>1</sup> · **Debargha Ganguly**<sup>1</sup> · **Vinooth Rao Kulkarni**<sup>1</sup> · **Wang Yang**<sup>1</sup> · **Zhuoran Qiao**<sup>2</sup> · **Daniel Blankenberg**<sup>3</sup> · **Vipin Chaudhary**<sup>1</sup> · **Xiaotian Han**<sup>1</sup>
 
 <sup>1</sup> Case Western Reserve University &nbsp;·&nbsp; <sup>2</sup> Chai Discovery &nbsp;·&nbsp; <sup>3</sup> Cleveland Clinic
 
 ### Maintainers
 
+Maintain this repository and the survey's subsequent version updates.
+
 - **Shouren Wang** ([sxw992@case.edu](mailto:sxw992@case.edu))
 
 Contributions are welcome via issues and pull requests.
+
+## Abstract
+
+Protein language models (pLMs) have become indispensable tools in computational biology, driving advances in variant effect prediction, functional annotation, structure prediction, and engineering. However, their rapid expansion from millions to tens of billions of parameters introduces significant computational, accessibility, and sustainability challenges that limit practical application in environments constrained by GPU memory, hardware availability, and energy budgets. This survey presents the **first comprehensive review of efficient pLMs**, synthesizing recent advances across four key dimensions: **(1) dataset efficiency**, **(2) architecture efficiency**, **(3) training efficiency**, and **(4) inference efficiency**. We additionally trace the historical evolution of pLMs, analyze intersections across efficiency dimensions, identify evaluation-comparability challenges, discuss LLM techniques not yet explored for pLMs, and offer practical recommendations for selecting efficiency strategies.
 
 <p align="center">
   <img src="./figures/pLMs_history_tree.png" alt="Evolution history of Protein Language Models (2019–2025)" width="85%">
   <br>
   <em>The evolution history of protein language models (pLMs), 2019–2025, across the Masked, Causal, and Conditional-Inverse-Folding families.</em>
 </p>
-
-## Abstract
-
-Protein language models (pLMs) have become indispensable tools in computational biology, driving advances in variant effect prediction, functional annotation, structure prediction, and engineering. However, their rapid expansion from millions to tens of billions of parameters introduces significant computational, accessibility, and sustainability challenges that limit practical application in environments constrained by GPU memory, hardware availability, and energy budgets. This survey presents the **first comprehensive review of efficient pLMs**, synthesizing recent advances across four key dimensions: **(1) dataset efficiency**, **(2) architecture efficiency**, **(3) training efficiency**, and **(4) inference efficiency**. We additionally trace the historical evolution of pLMs, analyze intersections across efficiency dimensions, identify evaluation-comparability challenges, discuss LLM techniques not yet explored for pLMs, and offer practical recommendations for selecting efficiency strategies.
 
 ## Taxonomy of Efficient pLMs
 
