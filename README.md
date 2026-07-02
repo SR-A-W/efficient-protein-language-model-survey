@@ -17,9 +17,11 @@ This repository is the companion resource hub for our survey **“A Survey on Ef
 
 <sup>1</sup> Case Western Reserve University &nbsp;·&nbsp; <sup>2</sup> Chai Discovery &nbsp;·&nbsp; <sup>3</sup> Cleveland Clinic
 
-### Maintainer
+### Maintainers
 
-**Shouren Wang** ([sxw992@case.edu](mailto:sxw992@case.edu)) — maintains this repository. Contributions are welcome via issues and pull requests.
+- **Shouren Wang** ([sxw992@case.edu](mailto:sxw992@case.edu))
+
+Contributions are welcome via issues and pull requests.
 
 <p align="center">
   <img src="./figures/pLMs_history_tree.png" alt="Evolution history of Protein Language Models (2019–2025)" width="85%">
